@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nayara.oliveira.MTTECHNE\\Documents\\Timesheet\\Timesheet\\Timesheet.csproj": {}
+    "C:\\Users\\nayara.oliveira.MTTECHNE\\Documents\\Projeto\\Timesheet\\Timesheet.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nayara.oliveira.MTTECHNE\\Documents\\Timesheet\\Timesheet\\Timesheet.csproj": {
+    "C:\\Users\\nayara.oliveira.MTTECHNE\\Documents\\Projeto\\Timesheet\\Timesheet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nayara.oliveira.MTTECHNE\\Documents\\Timesheet\\Timesheet\\Timesheet.csproj",
+        "projectUniqueName": "C:\\Users\\nayara.oliveira.MTTECHNE\\Documents\\Projeto\\Timesheet\\Timesheet.csproj",
         "projectName": "Timesheet",
-        "projectPath": "C:\\Users\\nayara.oliveira.MTTECHNE\\Documents\\Timesheet\\Timesheet\\Timesheet.csproj",
+        "projectPath": "C:\\Users\\nayara.oliveira.MTTECHNE\\Documents\\Projeto\\Timesheet\\Timesheet.csproj",
         "packagesPath": "C:\\Users\\nayara.oliveira.MTTECHNE\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nayara.oliveira.MTTECHNE\\Documents\\Timesheet\\Timesheet\\obj\\",
+        "outputPath": "C:\\Users\\nayara.oliveira.MTTECHNE\\Documents\\Projeto\\Timesheet\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
